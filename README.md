@@ -9,7 +9,7 @@ My results-oriented nature does not allow me to stop work on your project until 
 ## 📘 About Me
 
 - 💻 I’m currently working as a Software Engineer
-- 🛠️ I’m currently developing a project using Next.JS + Django
+- 🛠️ I’m currently developing a project using Next.JS + Tailwind CSS + ExpressJS + Supabase + Firebase + GraphQL
 - 📖 I’m currently preparing to take the GMAT exam
 - 📝 I’m looking for help with Digital Marketing
 #
@@ -19,7 +19,7 @@ My results-oriented nature does not allow me to stop work on your project until 
    
 <br>
 <br>
-<a target="_blank" href="mailto:clever.fox.w@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="mailto:joelbird1128@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <br>
 
 </p>       
